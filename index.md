@@ -5,4 +5,5 @@ check out these links:
 - [Google](http://google.com)
 - [nasa](http://nasa.gov)
 
+NEW! check out out our [other page](another.html)
 so cool!
